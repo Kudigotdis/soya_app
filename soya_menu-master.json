@@ -106,7 +106,7 @@
         { "item": "Hot Honey Lemon", "single_price": "P14", "double_price": null, "grande_price": null }
       ]
     },
-    "giraffe_lattes": [
+    "soya_lattes": [
       { "item": "Latte", "single_price": "P32", "double_price": "P36", "grande_price": "P40" },
       { "item": "Iced Latte", "single_price": "P35", "double_price": "P40", "grande_price": null },
       { "item": "Vanilla | Salted Caramel | Chocolate Cookie | Hazelnut", "single_price": null, "double_price": "P45", "grande_price": null },
@@ -224,7 +224,7 @@
         "description": "Two eggs, juicy beef patty, sautéed mushrooms, and fried tomato"
       },
       {
-        "name": "TYG Breakfast",
+        "name": "Soya Breakfast",
         "price": "P80",
         "description": "Two eggs, three rashers of crispy bacon, sautéed mushrooms, fried tomato, and baked beans"
       },
@@ -287,7 +287,7 @@
         "description": "Savory salami with basil pesto and melted mozzarella"
       },
       {
-        "name": "TYG Club",
+        "name": "Soya Club",
         "price": "P110",
         "description": "A classic triple-layer sandwich with chicken, bacon, fresh salad, and creamy mayo"
       },
@@ -311,12 +311,12 @@
     ],
     "tall_orders_burgers_and_mains": [
       {
-        "name": "TYG SGL Cheese Tower",
+        "name": "Soya SGL Cheese Tower",
         "price": "P80",
         "description": "Single beef patty, cheese, lettuce, tomato, house sauce served with chips."
       },
       {
-        "name": "The Giraffe Tower DBL Cheese",
+        "name": "Soya Tower DBL Cheese",
         "price": "P100",
         "description": "Double beef patty, double cheese, lettuce, tomato, house sauce served with chips."
       },
@@ -331,7 +331,7 @@
         "description": "Juicy beef patty smothered in creamy mushroom sauce served with chips."
       },
       {
-        "name": "The Big G Burger",
+        "name": "Soya Signature Burger",
         "price": "P125",
         "description": "200g Beef Patty, Bacon & DBL Cheese Served with Chips"
       }
@@ -357,7 +357,7 @@
     },
     "mains_and_bowls": [
       {
-        "name": "TYG Taco Bowl",
+        "name": "Soya Taco Bowl",
         "description": "Fresh salsa, creamy guacamole, couscous with feta, cheddar, crisp lettuce, and crunchy Doritos",
         "options": [
           { "protein": "Chicken", "price": "P95" },
@@ -366,7 +366,7 @@
         ]
       },
       {
-        "name": "TYG Tacos",
+        "name": "Soya Tacos",
         "description": "Soft tortilla tacos filled with seasoned chicken or beef, fresh toppings, creamy guacamole and a punchy house sauce",
         "options": [
           { "protein": "Chicken", "price": "P85" },
@@ -374,7 +374,7 @@
         ]
       },
       {
-        "name": "TYG Noodles",
+        "name": "Soya Noodles",
         "description": "Wok stir-fried noodles with your choice of tender chicken or beef, tossed with crisp peppers in a savoury soy-garlic sauce.",
         "options": [
           { "protein": "Chicken", "price": "P85" },
@@ -395,7 +395,7 @@
         "description": "Tender chicken, sautéed mushrooms, and sun-dried tomatoes tossed in a rich, creamy sauce, served on fettuccine."
       }
     ],
-    "tyg_grills": {
+    "soya_grills": {
       "note": "Served with a choice of chips, mash potatoes or salad | Mushroom or Pepper Sauce",
       "items": [
         {
